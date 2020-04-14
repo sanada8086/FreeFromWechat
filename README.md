@@ -1,4 +1,5 @@
 # 逃离微信宣言|FreeFromWechat Manifesto
+![](https://img.shields.io/badge/FreeFrom-WeChat-green?style=plastic)
 
 [项目说明](https://github.com/FreeFromGFW/FreeFromWechat/blob/master/proj_description.md)
 
